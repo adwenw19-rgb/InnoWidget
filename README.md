@@ -26,3 +26,4 @@ Düşük sistem kaynağı kullanımı (low resource consumption) ve yüksek perf
    ```bash
    git clone [https://github.com/06eren/InnoWidget.git](https://github.com/06eren/InnoWidget.git)
 Sonrasında Visual Studio İle Çalıştırın
+.NET 9 Destekler
