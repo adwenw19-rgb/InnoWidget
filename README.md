@@ -25,3 +25,4 @@ Düşük sistem kaynağı kullanımı (low resource consumption) ve yüksek perf
 1. Bu depoyu klonlayın:
    ```bash
    git clone [https://github.com/06eren/InnoWidget.git](https://github.com/06eren/InnoWidget.git)
+Sonrasında Visual Studio İle Çalıştırın
